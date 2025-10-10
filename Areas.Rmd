@@ -35,3 +35,11 @@ altura_rec<-3
 Area<-base_rec*altura_rec
 ```
 
+#Área Trapecio
+```{r}
+Base_B<-6
+base_ba<-3
+altura_trap<-3
+Area<-((Base_B+base_ba)/2)*altura_trap
+```
+
