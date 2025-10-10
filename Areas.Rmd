@@ -28,3 +28,10 @@ altura<-5
 Area<-(base*altura)/2
 ```
 
+#Área Rectángulo
+```{r}
+base_rec<-4
+altura_rec<-3
+Area<-base_rec*altura_rec
+```
+
